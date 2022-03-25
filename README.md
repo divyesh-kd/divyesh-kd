@@ -1,13 +1,14 @@
-### Hi there 👋, Divyesh
-#### Design and Development
 ![Design and Development](https://github.com/divyesh-kd/divyesh-kd/blob/master/699582.jpg)
 
-
-Skills: C / C++/ C#/ python/ HTML/ CSS/ Angular/ JavaScript
-
+# Divyesh
+#### Design and Development
  - 🔭 I’m currently working on Analysis,Designing and Development.
  - 🌱 I’m currently learning Analysis,Designing and Development. 
  - 👯 I’m looking to collaborate on on Analytics project. 
+## Skills:  
+- 🌊 C, C++, C#
+- 🐍 python
+- 💻 Angular, CSS, HTML, JavaScript 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/divyesh-kd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://innovationtodiscovery.blogspot.com/)  
