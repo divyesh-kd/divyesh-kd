@@ -1,6 +1,6 @@
 ### Hi there 👋, Divyesh
 #### Design and Development
-![Design and Development](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkLDL70EVq3vpio3uxetPlYvl2QahsEewaTjZihd1jT7ASAvHrdZV933sr2ie7pLvjBO74ayl_yTq91qEx5kH8wnu9_9eejWqNR3CXf6mCqdGe_2NCUfbf0E5WVQ5QTFY19e8cJqa0VbCZ2qgdWlWkuXZ480UDpJwisGmkmcLQo0tZZWw-g5XmvL9v/s1621/699582.jpg)
+![Design and Development](https://github.com/divyesh-kd/divyesh-kd/blob/master/699582.jpg)
 
 
 Skills: C / C++/ C#/ python/ HTML/ CSS/ Angular/ JavaScript
