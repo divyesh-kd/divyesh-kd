@@ -2,9 +2,9 @@
 
 # Divyesh
 #### Design and Development
- - 🔭 I’m currently working on Analysis,Designing and Development.
+ - 🔭 I'm a Full Stack Developer
  - 🌱 I’m currently learning Analysis,Designing and Development. 
- - 👯 I’m looking to collaborate on on Analytics project. 
+ - 👯 I’m looking to collaborate on Analytics project. 
 ## Skills:  
 - 🌊 C, C++, C#
 - 🐍 python
