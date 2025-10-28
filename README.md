@@ -2,7 +2,7 @@
 
 # Divyesh
 #### Design and Development
- - 🔭 I'm a Full Stack Developer
+ - 🔭 I'm a Full Stack Developer.
  - 🌱 I’m currently learning Analysis,Designing and Development. 
  - 👯 I’m looking to collaborate on Analytics project. 
 ## Skills:  
