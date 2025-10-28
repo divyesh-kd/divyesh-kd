@@ -6,9 +6,9 @@
  - 🌱 I’m currently learning Analysis,Designing and Development. 
  - 👯 I’m looking to collaborate on Analytics project. 
 ## Skills:  
-- 🌊 C, C++, C#
+- 🌊 Java, NodeJs, MySQL
 - 🐍 python
-- 💻 Angular, CSS, HTML, JavaScript 
+- 💻 Angular, CSS, HTML, JavaScript, TS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/divyesh-kd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://innovationtodiscovery.blogspot.com/)  
